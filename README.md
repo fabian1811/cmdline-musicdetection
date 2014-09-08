@@ -20,10 +20,13 @@ Go to <a href="http://developer.gracenote.com">Gracenote Developer</a>, register
 
 
 mkdir include
+
 mkdir shared_objects
 
 copy the dynamic libraries from GNSDK/lib/arch into a shared_objects folder
+
 copy the include files from GNSDK/include into your project /include folder
+
 copy the include file from GNSDK/include/arch into your project /include folder 
 
 make all
